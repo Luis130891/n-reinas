@@ -1,4 +1,4 @@
-% Proyecto: N-Reinas
+% Proyecto: N-Reinas algoritmo genetico
 % EIF-400 Paradigmas de Programación
 % Autor:
 % Luis Venegas Ulloa

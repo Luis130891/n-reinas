@@ -1,4 +1,4 @@
-; Proyecto: N-Reinas
+; Proyecto: N-Reinas backtracking
 ; EIF-400 Paradigmas de Programación
 ; Autor:
 ; Luis Venegas Ulloa
